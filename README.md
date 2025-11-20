@@ -1,6 +1,6 @@
 # Distributional RL Decision and Control
 
-This repository provides the code implementation of our RA-L paper [here](https://arxiv.org/abs/2412.09466). We developed an ASV decision making and control policy based on Actor Critic Implicit Quantile Networks (AC-IQN) for the multi-vehicle navigation problem in congested scenarios. The policy trainer structure is shown below, and an example training episode is shown in the video [here](https://robustfieldautonomylab.github.io/Lin_RA-L_2024_training_video.mp4).  
+This repository provides the code implementation of our RA-L paper [here](https://arxiv.org/abs/2412.09466). We developed an ASV decision making and control policy based on Actor Critic Implicit Quantile Networks (AC-IQN) for the multi-vehicle navigation problem in congested scenarios. The policy trainer structure is shown below, and an example training episode of the AC-IQN based policy is shown in the video [here](https://robustfieldautonomylab.github.io/Lin_RA-L_2024_training_video.mp4).  
 
 <p align="center">
 <img width="890" height="287" src="RL_model_trainer.png"> 
